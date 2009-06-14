@@ -1,0 +1,5 @@
+description = ""
+requires = ""
+version = "0.1"
+archive(byte) = "ocaml-gtp.cma"
+archive(native) = "ocaml-gtp.cmxa"
